@@ -1,4 +1,3 @@
 # Hello-World
 This is my testing
-public class hello-World{
-}
+I try to learn this application and I hope can use it.
